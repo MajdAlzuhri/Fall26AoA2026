@@ -14,4 +14,4 @@ course at Riphah International University.
 
 ## Files
 - [Assignment Questions](https://github.com/MajdAlzuhri/Fall26AoA2026/blob/main/Assignment-01-Questions.docx)
-- [Handwritten Solution](Assignment-01/Assignment-01-Solution-Majd-Alzuhri.pdf)
+- [Handwritten Solution](https://github.com/MajdAlzuhri/Fall26AoA2026/blob/main/Assignment-01-Solution-Majd-Alzuhri.pdf)
