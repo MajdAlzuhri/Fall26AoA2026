@@ -13,5 +13,5 @@ course at Riphah International University.
 - Analyze best-case and worst-case time complexity.
 
 ## Files
-- [Assignment Questions](Assignment-01/Assignment-01-Questions.docx)
+- [Assignment Questions]([Assignment-01/Assignment-01-Questions.docx](https://github.com/MajdAlzuhri/Fall26AoA2026/blob/main/Assignment-01-Questions.docx))
 - [Handwritten Solution](Assignment-01/Assignment-01-Solution-Majd-Alzuhri.pdf)
